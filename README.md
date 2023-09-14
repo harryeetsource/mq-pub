@@ -7,17 +7,31 @@ https://www.virustotal.com/gui/file/a350291b11b2828f4a85d84eaff9b9f4d66997a92023
 
 Features:
 Anti-Emulation
+
 Anti-Vm
+
 Anti-DBG
+
 Anti-Analysis
+
 Reg Key Persistence
+
 Poly AES Encryption
+
 Poly RSA Encryption
+
 Poly XOR Encryption (2 stages)
+
 Character Index Substitution Obfuscation (2 stages)
+
 Supports Scripts and Exes
+
 Dll injection (not working, lazy implementation and dont care to work on it)
+
 File-Infection (Routine is double-embedded, and wont run until fixed, have fun)
+
 Staging
+
 More 2 come
+
 
